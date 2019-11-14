@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array translatable="false" name="hot_citys_woeid">
+                <item>2151330</item>
+                <item>2151820</item>
+                <item>2151849</item>
+                <item>2161853</item>
+                <item>2132574</item>
+                <item>2161838</item>
+                <item>2158433</item>
+                <item>2163866</item>
+        </string-array>
+
+        <string-array translatable="false" name="hot_citys">
+                <item>北京</item>
+                <item>张江</item>
+                <item>上海</item>
+                <item>深圳</item>
+                <item>杭州</item>
+                <item>广州市</item>
+                <item>成都</item>
+                <item>武汉市</item>
+        </string-array>
+
+        <string-array translatable="false" name="citys_woeid">
+                <item>2137082</item>
+                <item>2157249</item>
+                <item>2137081</item>
+                <item>2172736</item>
+                <item>26198213</item>
+                <item>2148332</item>
+                <item>2168606</item>
+                <item>2132579</item>
+                <item>2161842</item>
+                <item>26198275</item>
+                <item>2160693</item>
+                <item>2147986</item>
+                <item>2139967</item>
+                <item>2127866</item>
+                <item>2161843</item>
+                <item>2139963</item>
+                <item>2141166</item>
+                <item>2168327</item>
+                <item>2132582</item>
+                <item>2137321</item>
+                <item>2154843</item>
+                <item>2137085</item>
+                <item>2139965</item>
+                <item>12685502</item>
+                <item>2139629</item>
+                <item>2132578</item>
+                <item>2137084</item>
+                <item>2154547</item>
+                <item>2132577</item>
+                <item>2168350</item>
+                <item>2171290</item>
+
+        </string-array>
+
+
+        <string-array translatable="false" name="citys">
+                <item>苏州</item>
+                <item>西安市</item>
+                <item>南京</item>
+                <item>郑州市</item>
+                <item>长沙市</item>
+                <item>沈阳</item>
+                <item>青岛</item>
+                <item>宁波市</item>
+                <item>东莞市</item>
+                <item>无锡市</item>
+                <item>昆明</item>
+                <item>大连市</item>
+                <item>厦门市</item>
+                <item>合肥</item>
+                <item>佛山市</item>
+                <item>福州市</item>
+                <item>哈尔滨</item>
+                <item>济南</item>
+                <item>温州</item>
+                <item>长春</item>
+                <item>石家庄</item>
+                <item>常州</item>
+                <item>泉州市</item>
+                <item>南昌市</item>
+                <item>南通</item>
+                <item>金华市</item>
+                <item>徐州</item>
+                <item>太原</item>
+                <item>嘉兴市</item>
+                <item>烟台</item>
+                <item>保定</item>
+        </string-array>
+
+</resources>

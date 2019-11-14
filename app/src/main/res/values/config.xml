@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_auto_refresh_enable">true</bool>
+    <integer name="config_auto_refresh">1</integer>
+    <bool name="config_wifi_only_enable">false</bool>
+
+    <bool name="config_use_amap">false</bool>
+
+    <bool name="config_default_temperature_c">true</bool>
+
+    <!-- yyyyMMddHHmmss -->
+    <string name="default_refresh_time" translatable="false">20180919000000</string>
+
+    <!--
+	<string name="default_woeid" translatable="false">2211027</string>
+    <string name="default_city_name" translatable="false">Islamabad</string>
+	-->
+
+    <string name="default_woeid" translatable="false">2151330</string>
+    <string name="default_city_name" translatable="false">北京</string>
+
+    <bool name="config_notification">false</bool>
+</resources>
